@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 import java.io.Serializable;
 import java.util.*;
-
+//this student class
 @Entity
 public class Etudiant implements Serializable {
     @Id
