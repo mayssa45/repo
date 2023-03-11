@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 
 import java.io.Serializable;
 import java.time.LocalDate;
-
+//create comment here for specificity
 @Entity
 public class Contrat implements Serializable {
 
