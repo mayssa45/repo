@@ -2,7 +2,7 @@ package com.example.kaddem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//this is the main function
 @SpringBootApplication
 public class KaddemApplication {
 
